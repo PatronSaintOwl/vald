@@ -16,7 +16,7 @@ replace (
 	github.com/gogo/googleapis => github.com/gogo/googleapis v1.4.0
 	github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.2
 	github.com/google/go-cmp => github.com/google/go-cmp v0.5.4
-	github.com/google/pprof => github.com/google/pprof v0.0.0-20210208152844-1612e9be7af6
+	github.com/google/pprof => github.com/google/pprof v0.0.0-20230323073829-e72429f035bd
 	github.com/googleapis/gnostic => github.com/googleapis/gnostic v0.5.4
 	github.com/gophercloud/gophercloud => github.com/gophercloud/gophercloud v0.15.0
 	github.com/gorilla/websocket => github.com/gorilla/websocket v1.4.2
@@ -75,7 +75,7 @@ require (
 	go.uber.org/zap v1.16.0
 	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210218155724-8ebf48af031b
+	golang.org/x/sys v0.1.0
 	gonum.org/v1/hdf5 v0.0.0-20200504100616-496fefe91614
 	gonum.org/v1/plot v0.8.1
 	google.golang.org/api v0.40.0
