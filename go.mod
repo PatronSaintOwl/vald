@@ -20,7 +20,7 @@ replace (
 	github.com/googleapis/gnostic => github.com/googleapis/gnostic v0.5.4
 	github.com/gophercloud/gophercloud => github.com/gophercloud/gophercloud v0.15.0
 	github.com/gorilla/websocket => github.com/gorilla/websocket v1.4.2
-	github.com/hailocab/go-hostpool => github.com/monzo/go-hostpool v0.0.0-20200724120130-287edbb29340
+	github.com/hailocab/go-hostpool => github.com/monzo/go-hostpool v0.0.0-20230127164148-1b818b6874ad
 	github.com/klauspost/compress => github.com/klauspost/compress v1.11.8-0.20210205131735-b5cd74455ec9
 	github.com/tensorflow/tensorflow => github.com/tensorflow/tensorflow v2.1.2+incompatible
 	golang.org/x/crypto => golang.org/x/crypto v0.0.0-20210218145215-b8e89b74b9df
